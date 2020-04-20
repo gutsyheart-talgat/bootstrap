@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+header{
+    height: 65px;
+    background-color: #E6B69C;
+}
+footer{
+    height: 278px;
+    background: #F2A4DC;
+}
+
+.block-1 .item{
+    height: 435px;
+}
+.block-1 .item.first{
+    background-color:  #D5CA69;
+}
+.block-1 .item.second{
+    background: #F4A2A2;
+}
