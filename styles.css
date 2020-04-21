@@ -19,3 +19,19 @@ footer{
 .block-1 .item.second{
     background: #F4A2A2;
 }
+.item-1{
+    background: #69C8D5;
+    height: 259px;
+}
+.item-2{
+    background: #89AFE8;
+    height: 85px;
+}
+.item-first{
+    background: #BB9BE4;
+    height: 637px;
+}
+.item-second{
+    background: #6EB468;
+    height: 637px;
+}
